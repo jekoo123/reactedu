@@ -1,12 +1,7 @@
-import './App.css';
+import "./App.css";
 
 function App() {
-  return (
-
-    <div className="App">
-      hihihi   asdfasfd
-    </div>
-  );
+  return <div className="App">123123123</div>;
 }
 
 export default App;
